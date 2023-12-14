@@ -3,7 +3,7 @@
 :icons: font
 :MoSCoW: https://fr.wikipedia.org/wiki/M%C3%A9thode_MoSCoW[MoSCoW]
 
-Ce dépôt concerne les rendus de mailto:A_changer@etu.univ-tlse2.fr[Jonh Doe].
+Ce dépôt concerne les rendus de mailto:loan.gayrard@etu.univ-tlse2.fr[Loan Gayrard].
 
 == TP1
 
@@ -30,11 +30,10 @@ Feature: An example
 
 === Screen des tests Cucumber
 
-image::./assets/images/ScreenTP1_Cucumber_Tests.png[width=100%]
+image::./assets/images/Tp1/ScreenTP1_Cucumber_Tests.png[width=100%]
 
-=== 
+== TP2
 
-.Exemple d'image insérée en asciidoc
-image::artifacts-r303.svg[width=80%]
+=== Exécution des tests
 
-== TP2...
+image::./assets/images/Tp2/ScreenTP2_Cucumber_Tests.png[width=100%]
