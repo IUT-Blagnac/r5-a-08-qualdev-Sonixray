@@ -30,10 +30,10 @@ Feature: An example
 
 === Screen des tests Cucumber
 
-image::assets/images/Tp1/ScreenTP1_Cucumber_Tests.png[width=100%]
+image::assets/images/TP1/ScreenTP1_Cucumber_Tests.png[width=100%]
 
 == TP2
 
 === Exécution des tests
 
-image::assets/images/Tp2/ScreenTP2_Cucumber_Tests.png[width=100%]
+image::assets/images/TP2/ScreenTP2_Cucumber_Tests.png[width=100%]
